@@ -1,0 +1,45 @@
+# PHASE 2: REQUIREMENT ANALYSIS
+
+## Functional Requirements
+
+### 1. Employee Table
+
+A custom Employee Test table must be created with the following fields:
+
+* Employee ID
+* Employee Name
+* Email
+* Department
+* Location
+
+### 2. Import Set
+
+An Import Set table named Employee Import is required to receive the spreadsheet data.
+
+### 3. Transform Map
+
+A Transform Map must map the fields from Employee Import to Employee Test.
+
+### 4. Coalesce
+
+Coalesce must be enabled on an appropriate field, such as Employee ID, to identify existing employee records and avoid unnecessary duplicate records.
+
+### 5. Reports
+
+Three reports are required:
+
+* Employees by Department
+* Employees by Location
+* Employee List Report
+
+### 6. Dashboard
+
+The reports must be added to an Employee Analytics Dashboard.
+
+## Input
+
+Excel spreadsheet containing employee information.
+
+## Output
+
+Employee records successfully imported into ServiceNow with reports and dashboard visualization.
