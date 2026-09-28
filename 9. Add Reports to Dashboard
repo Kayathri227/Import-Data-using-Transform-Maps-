@@ -1,0 +1,59 @@
+# PHASE 9: ADD REPORTS TO DASHBOARD
+
+## Objective
+
+The objective of this phase is to create an Employee Analytics Dashboard and add the reports created in the previous phase.
+
+## Step 1: Create Dashboard
+
+Navigate to:
+
+**All → Dashboards → Dashboards**
+
+Create a new dashboard.
+
+### Dashboard Name
+
+**Employee Analytics Dashboards**
+
+Save the dashboard.
+
+## Step 2: Add Employees by Department Report
+
+Open the **Employees by Department** report.
+
+Select:
+
+**Share → Add to Dashboards**
+
+Choose:
+
+**Employee Analytics Dashboards**
+
+Click **Add**.
+
+## Step 3: Add Employees by Location Report
+
+Repeat the same process for the **Employees by Location** report.
+
+Add it to the **Employee Analytics Dashboards** dashboard.
+
+## Step 4: Add Employee List Report
+
+Repeat the process for the **Employee List Report** and add it to the same dashboard.
+
+The project document confirms that all three reports are added to the dashboard.
+
+## Final Dashboard
+
+The completed dashboard contains:
+
+1. Employees by Department
+2. Employees by Location
+3. Employee List Report
+
+These reports provide visual information about employee data through charts and a list.
+
+## Conclusion
+
+The Employee Analytics Dashboard provides a centralized view of employee information and makes the imported data easier to understand through reports and visualizations.
