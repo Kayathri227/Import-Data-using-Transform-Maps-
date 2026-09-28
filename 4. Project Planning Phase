@@ -1,0 +1,44 @@
+# PHASE 4: PROJECT PLANNING
+
+## Project Plan
+
+| Activity                | Planned Work                          |
+| ----------------------- | ------------------------------------- |
+| Spreadsheet Preparation | Create employee sample data           |
+| Custom Table            | Create Employee Test table            |
+| Import Set              | Create Employee Import table          |
+| Transform Map           | Map source and target fields          |
+| Data Transformation     | Import employee records               |
+| Coalesce                | Prevent unnecessary duplicate records |
+| Testing                 | Test new and existing employee data   |
+| Reports                 | Create three reports                  |
+| Dashboard               | Combine reports into one dashboard    |
+
+## Resources Required
+
+### Software
+
+* ServiceNow
+* Google Sheets or Microsoft Excel
+* Web Browser
+
+### Data
+
+Employee sample data containing:
+
+* Employee ID
+* Employee Name
+* Email
+* Department
+* Location
+
+## Expected Deliverables
+
+* ServiceNow Employee Test table
+* Import Set
+* Transform Map
+* Coalesce configuration
+* Reports
+* Employee Analytics Dashboard
+* Project documentation
+* Project demonstration video
