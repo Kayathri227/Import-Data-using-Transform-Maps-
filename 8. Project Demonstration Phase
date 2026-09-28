@@ -1,0 +1,55 @@
+# PHASE 8: PROJECT DEMONSTRATION
+
+## Demonstration Objective
+
+The demonstration shows the complete working process of the ServiceNow project from spreadsheet preparation to dashboard creation.
+
+## Demonstration Sequence
+
+### 1. Introduce the Project
+
+Explain the project name:
+
+**Import Data Using Transform Maps (Spreadsheet)**
+
+### 2. Explain the Purpose
+
+Explain that the project imports employee information from an Excel spreadsheet into ServiceNow.
+
+### 3. Show the Spreadsheet
+
+Display the employee data prepared in the spreadsheet.
+
+### 4. Show Employee Test Table
+
+Display the custom Employee Test table and its fields.
+
+### 5. Show Import Set
+
+Demonstrate loading the spreadsheet into the Employee Import table.
+
+### 6. Show Transform Map
+
+Show the Sample Spreadsheet Import Transform Map and the field mappings.
+
+### 7. Demonstrate Coalesce
+
+Show how Employee ID is used to identify existing employee records and prevent unnecessary duplicate records.
+
+### 8. Show Reports
+
+Demonstrate:
+
+* Employees by Department
+* Employees by Location
+* Employee List Report
+
+### 9. Show Dashboard
+
+Open the Employee Analytics Dashboard and demonstrate the reports.
+
+### 10. Show Final Output
+
+Explain that the employee data has been successfully imported, transformed, validated and displayed through reports and the dashboard.
+
+The project document describes the dashboard as a centralized view of employee data and import-related information.
