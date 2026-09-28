@@ -1,0 +1,30 @@
+# PHASE 1: BRAINSTORMING & IDEATION
+
+## Project Title
+
+Import Data Using Transform Maps (Spreadsheet)
+
+## Introduction
+
+The project focuses on importing structured employee data from an external spreadsheet into the ServiceNow platform using Import Sets and Transform Maps.
+
+## Problem Statement
+
+Employee information may be received in spreadsheet format from external sources. Manually entering a large number of employee records into ServiceNow can take more time and may result in data-entry errors.
+
+## Proposed Solution
+
+The proposed solution is to import employee data from an Excel spreadsheet into ServiceNow. Import Sets are used as a staging area, and Transform Maps are used to map the spreadsheet fields to the appropriate fields in the Employee Test table.
+
+## Objectives
+
+* Import employee data from an Excel spreadsheet.
+* Create a custom Employee Test table.
+* Use Import Sets to load spreadsheet data.
+* Use Transform Maps to transfer data to the target table.
+* Prevent duplicate records using Coalesce.
+* Create reports and a dashboard for employee data.
+
+## Expected Outcome
+
+The project should successfully import employee records into ServiceNow and provide reports and a dashboard for viewing employee information.
