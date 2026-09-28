@@ -1,0 +1,47 @@
+# PHASE 3: PROJECT DESIGN
+
+## System Flow
+
+Spreadsheet
+↓
+Import Set Table
+↓
+Transform Map
+↓
+Employee Test Table
+↓
+Reports
+↓
+Employee Analytics Dashboard
+
+## Database Design
+
+### Employee Test Table
+
+**Table Name:** Employee Test
+**Backend Name:** u_employee_test
+
+| Field         | Type   |
+| ------------- | ------ |
+| Employee ID   | String |
+| Employee Name | String |
+| Email         | String |
+| Department    | String |
+| Location      | String |
+
+## Import Table
+
+**Label:** Employee Import
+**Backend Name:** u_employee_import
+
+The Import Set table works as the staging area before the data is transferred to the target Employee Test table.
+
+## Transform Map Design
+
+**Name:** Sample Spreadsheet Import
+
+**Source:** Employee Import
+
+**Target:** Employee Test
+
+The source fields are mapped to their corresponding target fields.
