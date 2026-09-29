@@ -9,9 +9,9 @@ The purpose of testing is to verify that employee data is imported correctly and
 **Input:** New Employee ID
 
 **Expected Result:** A new employee record should be created.
+![Test case 1](<Screenshot 2026-09-28 144359.png>)
 
 **Status:** Passed / To be updated after testing
-
 ## Test Case 2: Existing Employee with Changed Information
 
 **Input:** Existing Employee ID with changed name or email.
@@ -20,6 +20,8 @@ The purpose of testing is to verify that employee data is imported correctly and
 
 **Status:** Passed / To be updated after testing
 
+![Test case 2](<Screenshot 2026-09-28 142300.png>)
+
 ## Test Case 3: Same Data Imported Again
 
 **Input:** Previously imported identical data.
@@ -27,6 +29,7 @@ The purpose of testing is to verify that employee data is imported correctly and
 **Expected Result:** The records should not create unnecessary duplicate records.
 
 **Status:** Passed / To be updated after testing
+![Test case 3](<Screenshot 2026-09-28 142918.png>)
 
 ## Test Case 4: Reports
 
@@ -35,6 +38,13 @@ Verify that:
 * Department report displays employee distribution.
 * Location report displays employee distribution.
 * Employee List Report displays employee information.
+![Test case 4](<Screenshot 2026-09-28 143344.png>)
+![Test case 5](<Screenshot 2026-09-28 143730.png>)
+![Test case 6](<Screenshot 2026-09-28 145216.png>)
+![Test case 7](<Screenshot 2026-09-28 145915.png>)
+![Test case 8](<Screenshot 2026-09-28 150202.png>)
+![Test case 9](<Screenshot 2026-09-28 150429.png>)
+![Test case 10](<Screenshot 2026-09-28 150612.png>)
 
 ## Testing Result
 
